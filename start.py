@@ -1,7 +1,11 @@
 if __name__ == '__main__':
     print('Hello Version Control')
     print('This is second line')
+    print('this is fun part 3')
     print('Third line')
     print('authentication')
     print('next try')
     print('testing')
+    print('this is fun')
+    print('this is fun part 2')
+    print('branch_1 first entry')
